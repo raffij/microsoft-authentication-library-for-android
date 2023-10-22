@@ -246,7 +246,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 ## Android Studio Build Requirement
 Please note that this project uses [Lombok](https://projectlombok.org/) internally and while using Android Studio you will need to install [Lobmok Plugin](https://plugins.jetbrains.com/plugin/6317-lombok) to get the project to build successfully within Android Studio.
 
-## Roadmap
+## Roadmap 2
 |Date | Release | Blog post| Main features|
 |---------| --------- | ---------| ---------|
 |09/30/19 | [MSAL 1.0.0](https://github.com/AzureAD/microsoft-authentication-library-for-android/releases/tag/v1.0.0)| https://developer.microsoft.com/identity/blogs/microsoft-authentication-libraries-for-android-ios-and-macos-are-now-generally-available/ | General Availability of MSAL|
